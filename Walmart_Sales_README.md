@@ -20,3 +20,4 @@
 * Art, Storage, and Blinders sub-categories holds the highest customer base
 * Highest customer count is from country France
 
+**Images of the dashboard, Video of interactive dashboard and Power BI file are attached.**
